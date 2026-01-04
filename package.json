@@ -1,6 +1,0 @@
-"devDependencies": {
-  "vite": "^5.0.0",
-  "@vitejs/plugin-react": "^4.0.0",
-  "tailwindcss": "^4.1.18",
-  "@tailwindcss/vite": "^4.1.18"
-}
